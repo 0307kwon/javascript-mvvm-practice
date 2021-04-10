@@ -23,8 +23,8 @@ export default class CustomerView extends View {
     <ul class="js-customer-list">
     </ul>
     <form class="js-customer-form">
-        <input type="text" class="js-customer-form__name" /> <br />
-        <input type="email" class="js-customer-form__email" /> <br />
+        <input type="text" placeholder="이름" class="js-customer-form__name" /> <br />
+        <input type="email" placeholder="이메일" class="js-customer-form__email" /> <br />
         <button type="submit">제출하기</button>
       </form>
     `;
