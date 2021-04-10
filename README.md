@@ -2,7 +2,7 @@
 
 [데모 페이지](https://0307kwon.github.io/javascript-mvvm-practice/)
 
-![image](https://user-images.githubusercontent.com/48755175/114265528-3a29f980-9a2c-11eb-99c1-a8abaccbdb12.png)
+![image](https://user-images.githubusercontent.com/48755175/114275530-d91b1980-9a5d-11eb-8494-67d0fa02b754.png)
 
 ## 😁 이 프로그램에 대해 알아두면 좋은 점
 
