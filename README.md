@@ -1,6 +1,6 @@
 # MVVM의 구현 연습을 위한 repo 입니다.
 
-[데모 페이지](https://0307kwon.github.io/javascript-mvvc-practice/)
+[데모 페이지](https://0307kwon.github.io/javascript-mvv-practice/)
 
 ![image](https://user-images.githubusercontent.com/48755175/114265528-3a29f980-9a2c-11eb-99c1-a8abaccbdb12.png)
 
