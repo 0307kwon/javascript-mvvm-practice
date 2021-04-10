@@ -1,5 +1,7 @@
 # MVVC의 구현 연습을 위한 repo 입니다.
 
+[데모 페이지](https://0307kwon.github.io/javascript-mvvc-practice/)
+
 ## 😁 이 프로그램에 대해 알아두면 좋은 점
 
 1. 현재 view 코드에 modelView의 name 값을 `얍얍`이라는 값으로 변경해두었음
