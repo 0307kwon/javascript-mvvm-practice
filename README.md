@@ -22,3 +22,7 @@
 MVVC는 MVC에 비해 다음과 같은 장점이 있다.
 1. 뷰모델이 특정 모델에 대해 단일한 책임을 질 수 있다. (책임 분산, 복잡도 하락)
 2. 다양한 뷰모델의 조합으로 뷰를 구성할 수 있다. (재사용성 증가)
+
+## 참고 자료
+[bsidesoft MV* 에 대해서](https://www.bsidesoft.com/5948)
+[bsidesoft MVVC구현](https://www.bsidesoft.com/5964)
